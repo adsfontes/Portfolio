@@ -19,3 +19,16 @@ p {
 .center {
     text-align: center;
 }
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(132, 19, 188);
+}
+
+footer img {
+    width: 35px;
+    height: 35px;
+    
+}
