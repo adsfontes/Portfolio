@@ -1,3 +1,17 @@
 body {
-    background-color: rgb(56, 56, 56);
+    background-color: rgb(37, 37, 37);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: rgb(132, 19, 188);
+}
+
+h2 {
+    color: rgb(192, 189, 192)
+}
+
+
+.center {
+    text-align: center;
 }
